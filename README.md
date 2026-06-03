@@ -152,9 +152,9 @@ SmartBank
 
 ### 1. Clone Repository
 
-```bash
-git clone [SmartBank](https://github.com/Sowmyapappu19/SmartBank)
-```
+
+git clone https://github.com/Sowmyapappu19/SmartBank.git
+
 
 ### 2. Install Dependencies
 
